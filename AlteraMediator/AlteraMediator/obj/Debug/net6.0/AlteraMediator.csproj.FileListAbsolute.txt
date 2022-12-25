@@ -1,0 +1,14 @@
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\bin\Debug\net6.0\AlteraMediator.deps.json
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\bin\Debug\net6.0\AlteraMediator.runtimeconfig.json
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\bin\Debug\net6.0\AlteraMediator.dll
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\bin\Debug\net6.0\AlteraMediator.pdb
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.csproj.AssemblyReference.cache
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.AssemblyInfoInputs.cache
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.AssemblyInfo.cs
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.csproj.CoreCompileInputs.cache
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.dll
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\refint\AlteraMediator.dll
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.pdb
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\AlteraMediator.genruntimeconfig.cache
+C:\Users\pan1c\Documents\LIFE\Backend - Assignments\6. Sixth Assignment\AlteraMediator\AlteraMediator\obj\Debug\net6.0\ref\AlteraMediator.dll
